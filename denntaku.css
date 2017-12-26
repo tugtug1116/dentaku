@@ -1,0 +1,90 @@
+﻿.a:hover{
+background-color:#b0c4de;
+border:1vw #66cdaa solid;
+font-family: 'sans-serif', 'Century Gothic', sans-serif;
+width:23vw;
+float:left;
+margin:0.5vw 0 0.5vw 0vw;
+}
+.a{
+background-color:#b0c4de;
+border:1vw #000000 solid;
+font-family: 'sans-serif', 'Century Gothic', sans-serif;
+width:23vw;
+height:13vh;
+float:left;
+margin:0.5vw 0 0.5vw 0vw;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 10vw;
+}
+.back{
+background-color:#778899;
+border:2vw #778899 solid;
+width:100vw;
+height:100vh;
+overflow:hidden;
+}
+.win{
+color:white;
+background-color:#4682b4;
+border:1vw #000000 solid;
+font-family: 'sans-serif', 'Century Gothic', sans-serif;
+width:98vw;
+height:20vh;
+float:center;
+font-size: 12vw;
+position: relative;
+}
+
+.iti{
+position:absolute;
+bottom:0;
+right:0;
+}
+.c:hover{
+border:1vw #66cdaa solid;
+color:#66cdaa;
+font-family: 'sans-serif', 'Century Gothic', sans-serif;
+width:73vw;
+float:left;
+margin:0.5vw 0 0.5vw 0vw;
+
+}
+.c{
+background-color:#6a5acd;
+border:1vw #000000 solid;
+font-family: 'sans-serif', 'Century Gothic', sans-serif;
+width:73vw;
+height:13vh;
+float:left;
+margin:0.5vw 0 0.5vw 0vw;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 10vw;
+}
+
+.wa:hover{
+background-color:#b0c4de;
+border:1vw #66cdaa solid;
+font-family: 'sans-serif', 'Century Gothic', sans-serif;
+width:48vw;
+float:left;
+margin:0.5vw 0 0.5vw 0vw;
+}
+.wa{
+background-color:#b0c4de;
+border:1vw #000000 solid;
+font-family: 'sans-serif', 'Century Gothic', sans-serif;
+width:48vw;
+height:13vh;
+float:left;
+margin:0.5vw 0 0.5vw 0vw;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 10vw;
+}
+
